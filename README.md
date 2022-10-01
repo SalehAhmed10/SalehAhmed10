@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saleh Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+ <img src="https://media0.giphy.com/media/Eho5nQQoQvSRk2OG7W/giphy.gif?cid=790b76112c5d4802f2d106931870c1298245778cd16399f7&rid=giphy.gif&ct=g" alt="" srcset="">
 
 - 👨‍💻 All of my projects are available at [https://salehahmed.vercel.app/](https://salehahmed.vercel.app/)
 

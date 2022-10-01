@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saleh Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
- <img src="https://media0.giphy.com/media/Eho5nQQoQvSRk2OG7W/giphy.gif?cid=790b76112c5d4802f2d106931870c1298245778cd16399f7&rid=giphy.gif&ct=g" alt="" srcset="">
+
+
 
 - 👨‍💻 All of my projects are available at [https://salehahmed.vercel.app/](https://salehahmed.vercel.app/)
 
@@ -9,6 +10,7 @@
 - 📫 How to reach me **dev.salehahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/devsalehahmed" target="blank"><img src="https://img.shields.io/twitter/follow/devsalehahmed?logo=twitter&style=for-the-badge" alt="devsalehahmed" /></a> </p>
 <p align="left">
 <a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a>
 

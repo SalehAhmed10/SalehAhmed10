@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saleh Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi, I'm Saleh Ahmed</h1>
+<h3 align="center">A frontend developer from Pakistan</h3>
 
 
 
-- 👨‍💻 All of my projects are available at [https://salehahmed.vercel.app/](https://salehahmed.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://salehahmed.tech/](https://salehahmed.tech/)
 
 - 💬 Ask me about **react, JavaScript**
 

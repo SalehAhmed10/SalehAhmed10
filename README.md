@@ -25,10 +25,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
 <div class="d-flex">
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmed10&show_icons=true&locale=en&layout=compact" alt="salehahmed10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmed10&show_icons=true&locale=en&layout=compact" alt="salehahmed10" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=salehahmed10&show_icons=true&locale=en" alt="salehahmed10" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=salehahmed10&show_icons=true&locale=en" alt="salehahmed10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehahmed10&" alt="salehahmed10" /></p>
+
 </div> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehahmed10&" alt="salehahmed10" /></p>
 

@@ -37,19 +37,22 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats
 
-<img src="saleh-ahmed-github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+![Anurag's GitHub stats](https://saleh-ahmed-github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=radical)
 
-<img src="saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</td></tr></table>  
 
 <br/>  
 
-  
+## Top Repositories
+[![Readme Card](https://saleh-ahmed-github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>

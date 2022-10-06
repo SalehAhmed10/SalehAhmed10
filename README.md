@@ -24,7 +24,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
-<div class="diplay: flex">
+<div diplay= "flex">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salehahmed10&show_icons=true&locale=en&layout=compact" alt="salehahmed10" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=salehahmed10&show_icons=true&locale=en" alt="salehahmed10" /></p>

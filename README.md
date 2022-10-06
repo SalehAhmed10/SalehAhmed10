@@ -39,7 +39,6 @@
 
 ## Github Stats
 
-
 ![Anurag's GitHub stats](https://saleh-ahmed-github-readme-stats.vercel.app/api?username=SalehAhmed10&count_private=true&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=cobalt)](https://github.com/SalehAhmed10)
@@ -50,9 +49,10 @@
 ## Top Repositories
 <!-- [![Readme Card](https://saleh-ahmed-github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner)](https://github.com/SalehAhmed10/Food.Json) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=countries-db&show_owner" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/SalehAhmed10/Food.Json" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner" />
 </a>
+<a href="https://github.com/SalehAhmed10/countries-db" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=countries-db&show_owner" />
+</a>
+

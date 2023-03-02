@@ -12,47 +12,49 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/devsalehahmed" target="blank"><img src="https://img.shields.io/twitter/follow/devsalehahmed?logo=twitter&style=for-the-badge" alt="devsalehahmed" /></a> </p>
 <p align="left">
-<a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-</div>  
+<code><a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a></code>
+<code><a href="discordapp.com/users/485202144232734738" target="blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a></code>
+
+
+
+## Languages and Tools 
+<code><img height="30" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/></code>
+<code><img height="30" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="30" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"/></code>
+<code><img height="30" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" /></code>
+
+
+
 
 <br/>  
 
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://saleh-ahmed-github-readme-stats.vercel.app/api?username=SalehAhmed10&count_private=true&show_icons=true&theme=cobalt)
+[![Saleh Ahmed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![Saleh Ahmed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=default#gh-light-mode-only)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SalehAhmed10&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=cobalt)](https://github.com/SalehAhmed10)
+[![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=dark)](https://github.com/SalehAhmed10)
+
 
 
 <br/>  
 
 ## Top Repositories
-<!-- [![Readme Card](https://saleh-ahmed-github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner)](https://github.com/SalehAhmed10/Food.Json) -->
 
 <a href="https://github.com/SalehAhmed10/Food.Json" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner&theme=dark" />
 </a>
 <a href="https://github.com/SalehAhmed10/countries-db" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=countries-db&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=countries-db&show_owner&theme=dark" />
 </a>
 

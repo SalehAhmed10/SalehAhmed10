@@ -13,8 +13,8 @@
 <p align="left"> <a href="https://twitter.com/devsalehahmed" target="blank"><img src="https://img.shields.io/twitter/follow/devsalehahmed?logo=twitter&style=for-the-badge" alt="devsalehahmed" /></a> </p>
 <p align="left">
 
-<code><a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a></code>
-<code><a href="discordapp.com/users/485202144232734738" target="blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a></code>
+<a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a>
+<a href="discordapp.com/users/485202144232734738" target="blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a>
 
 
 
@@ -39,11 +39,12 @@
 
 ## Github Stats
 
-[![Saleh Ahmed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)]
-[![Saleh Ahmed's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=default#gh-light-mode-only)]
+[![SalehAhmed10's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![SalehAhmed10's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SalehAhmed10&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=dark)](https://github.com/SalehAhmed10)
+
 
 
 

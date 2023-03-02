@@ -14,7 +14,7 @@
 <p align="left">
 
 <a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a>
-<a href="discordapp.com/users/485202144232734738" target="blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/485202144232734738" target="blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a>
 
 
 

@@ -59,6 +59,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner&theme=dark" />
 </a>
 <a href="https://github.com/SalehAhmed10/countries-db" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=countries-db&show_owner&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=stream-world&show_owner&theme=dark" />
 </a>
 

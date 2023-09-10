@@ -45,7 +45,7 @@
 
 [![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=dark)](https://github.com/SalehAhmed10)
 
-[![SalehAhmed10's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SalehAhmed10/stream-world)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SalehAhmed10&theme=dark)](https://github.com/SalehAhmed10/stream-world)
 
 

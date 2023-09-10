@@ -43,8 +43,8 @@
 
 [![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=dark)](https://github.com/SalehAhmed10)
 
-[![SalehAhmed10's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SalehAhmed10&theme=dark)](https://git.io/streak-stats)
+[![SalehAhmed10's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/SalehAhmed10/stream-world)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SalehAhmed10&theme=dark)](https://github.com/SalehAhmed10/stream-world)
 
 
 

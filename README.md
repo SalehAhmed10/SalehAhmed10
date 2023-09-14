@@ -40,8 +40,6 @@
 
 ## Github Stats
 
-## Github Stats
-
 [![SalehAhmed10's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SalehAhmed10/)
 
 [![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=dark)](https://github.com/SalehAhmed10)

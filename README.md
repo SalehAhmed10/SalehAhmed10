@@ -33,32 +33,34 @@
 
 
 
+## Github Stats
+
+<div align="center" >
+    <a  href="https://github.com/SalehAhmed10">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalehAhmed10&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalehAhmed10&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalehAhmed10&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAhmed10&theme=dark" width="100%" height="50%">
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mannxxx&theme=dark&utcOffset=8" width="100" height="50%"> -->
+    </a>
+</div>
 
 
 <br/>  
 
 
-## Github Stats
 
-[![SalehAhmed10's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SalehAhmed10/)
+
+<!---[![SalehAhmed10's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SalehAhmed10&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SalehAhmed10/)
 
 [![Top Langs](https://saleh-ahmed-github-readme-stats.vercel.app/api/top-langs/?username=SalehAhmed10&layout=compact&theme=dark)](https://github.com/SalehAhmed10)
-
+--->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SalehAhmed10&theme=dark)](https://github.com/SalehAhmed10/stream-world)
-
-
-
-
-
 
 <br/>  
 
 ## Top Repositories
-
-<a href="https://github.com/SalehAhmed10/Food.Json" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=Food.Json&show_owner&theme=dark" />
-</a>
 <a href="https://github.com/SalehAhmed10/stream-world" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SalehAhmed10&repo=stream-world&show_owner&theme=dark" />
 </a>

@@ -41,6 +41,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalehAhmed10&theme=dark" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalehAhmed10&theme=dark" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAhmed10&theme=dark" width="100%" height="50%">
+<!--             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalehAhmed10&theme=dark" width="100%" height="50%"> -->
 <!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mannxxx&theme=dark&utcOffset=8" width="100" height="50%"> -->
     </a>
 </div>

@@ -10,12 +10,12 @@
 - 📫 How to reach me **dev.salehahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/devsalehahmed" target="blank"><img src="https://img.shields.io/twitter/follow/devsalehahmed?logo=twitter&style=for-the-badge" alt="devsalehahmed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devsalehahmed" target="_blank"><img src="https://img.shields.io/twitter/follow/devsalehahmed?logo=twitter&style=for-the-badge" alt="devsalehahmed" /></a> </p>
 <p align="left">
 
 <a href="https://instagram.com/dev.salehahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.salehahmed" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/485202144232734738" target="blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/connectsalehahmed10/" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="dev.salehahmed" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/485202144232734738" target="_blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/connectsalehahmed10/" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="dev.salehahmed" height="30" width="30" /></a>
 
 
 

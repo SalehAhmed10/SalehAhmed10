@@ -17,7 +17,9 @@
 <a href="https://discordapp.com/users/485202144232734738" target="_blank"><img align="center" src="https://img.icons8.com/color/256/discord-logo.png" alt="dev.salehahmed" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/connectsalehahmed10/" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="dev.salehahmed" height="30" width="30" /></a>
 
-
+  <div align="center">
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=majoruzair&label=Profile%20views&color=0e75b6&style=flat" alt="Uzair" /> </p>
+</div>
 
 ## Languages and Tools 
 <code><img height="30" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/></code>
